@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-03-13 10:21:49 by Eclipse SUMO netedit Version 1.19.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/neteditConfiguration.xsd">
+
+    <input>
+        <sumocfg-file value="osm.sumocfg"/>
+        <additional-files value="osm.poly.xml.gz"/>
+        <route-files value="osm.passenger.trips.xml"/>
+        <sumo-net-file value="osm.net.xml.gz"/>
+    </input>
+
+    <output>
+        <output.street-names value="true"/>
+    </output>
+
+    <processing>
+        <geometry.min-radius.fix.railways value="false"/>
+        <geometry.max-grade.fix value="false"/>
+        <offset.disable-normalization value="true"/>
+        <lefthand value="0"/>
+    </processing>
+
+    <junctions>
+        <no-turnarounds value="true"/>
+        <junctions.corner-detail value="5"/>
+        <junctions.limit-turn-speed value="5.50"/>
+        <rectangular-lane-cut value="0"/>
+    </junctions>
+
+    <pedestrian>
+        <walkingareas value="0"/>
+    </pedestrian>
+
+    <netedit>
+        <ignore.routeelements value="false"/>
+    </netedit>
+
+</configuration>
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <tlLogic id="joinedS_2418749456_2418749547_2418749590_cluster_1226950444_2418749423_2418749448_2418749474_#5more" type="static" programID="0" offset="0">
+        <phase duration="12" state="GGGGGGrrrrrrrrrrrrr"/>
+        <phase duration="4" state="yyyyyGrrrrrrrrrrrrr"/>
+        <phase duration="16" state="rrrrrGGGGGrrrrrrrrr"/>
+        <phase duration="4" state="rrrrryyyyGrrrrrrrrr"/>
+        <phase duration="26" state="rrrrrrrrrGGGGGGrrrr"/>
+        <phase duration="4" state="rrrrrrrrryyyyyGrrrr"/>
+        <phase duration="23" state="rrrrrrrrrrrrGGGGGGG"/>
+        <phase duration="4" state="rrrrrrrrrrrryyyyyyy"/>
+    </tlLogic>
+</additional>
