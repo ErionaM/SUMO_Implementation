@@ -1,0 +1,314 @@
+<trip id="veh947" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-E2" to="677610755#1">
+   <stop edge="-E1" endPos="5" duration="0"/>
+   <stop edge="455549397#3" endPos="5" duration="0"/>
+   <stop edge="741186879" endPos="5" duration="0"/>
+   <stop edge="448670163#3" endPos="5" duration="0"/>
+   <stop edge="1089075606#0" endPos="5" duration="0"/>
+   <stop edge="677610755#1" endPos="5" duration="0"/>
+</trip>
+<trip id="veh948" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-E2" to="677610755#1">
+   <stop edge="-E1" endPos="5" duration="0"/>
+   <stop edge="455549397#3" endPos="5" duration="0"/>
+   <stop edge="741186879" endPos="5" duration="0"/>
+   <stop edge="448670163#3" endPos="5" duration="0"/>
+   <stop edge="1089075606#0" endPos="5" duration="0"/>
+   <stop edge="677610755#1" endPos="5" duration="0"/>
+</trip>
+<trip id="veh949" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-E2" to="677610755#1">
+   <stop edge="-E1" endPos="5" duration="0"/>
+   <stop edge="455549397#3" endPos="5" duration="0"/>
+   <stop edge="741186879" endPos="5" duration="0"/>
+   <stop edge="448670163#3" endPos="5" duration="0"/>
+   <stop edge="1089075606#0" endPos="5" duration="0"/>
+   <stop edge="677610755#1" endPos="5" duration="0"/>
+</trip>
+<trip id="veh950" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="39743508#1" to="E3">
+   <stop edge="721985720" endPos="5" duration="0"/>
+   <stop edge="677610753#2" endPos="5" duration="0"/>
+   <stop edge="513373546#0" endPos="5" duration="0"/>
+   <stop edge="455679559#0" endPos="5" duration="0"/>
+   <stop edge="E2" endPos="5" duration="0"/>
+   <stop edge="E3" endPos="5" duration="0"/>
+</trip>
+<trip id="veh951" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="39743508#1" to="E3">
+   <stop edge="721985720" endPos="5" duration="0"/>
+   <stop edge="677610753#2" endPos="5" duration="0"/>
+   <stop edge="513373546#0" endPos="5" duration="0"/>
+   <stop edge="455679559#0" endPos="5" duration="0"/>
+   <stop edge="E2" endPos="5" duration="0"/>
+   <stop edge="E3" endPos="5" duration="0"/>
+</trip>
+<trip id="veh952" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="724437592" to="677610755#1">
+   <stop edge="455549397#3" endPos="5" duration="0"/>
+   <stop edge="741186879" endPos="5" duration="0"/>
+   <stop edge="448670163#3" endPos="5" duration="0"/>
+   <stop edge="1089075606#0" endPos="5" duration="0"/>
+   <stop edge="677610755#1" endPos="5" duration="0"/>
+</trip>
+<trip id="veh953" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="675515253#2" to="E3">
+   <stop edge="677610753#2" endPos="5" duration="0"/>
+   <stop edge="513373546#0" endPos="5" duration="0"/>
+   <stop edge="455679559#0" endPos="5" duration="0"/>
+   <stop edge="E2" endPos="5" duration="0"/>
+   <stop edge="E3" endPos="5" duration="0"/>
+</trip>
+<trip id="veh954" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="455549397#3" to="677610755#1">
+   <stop edge="741186879" endPos="5" duration="0"/>
+   <stop edge="448670163#3" endPos="5" duration="0"/>
+   <stop edge="1089075606#0" endPos="5" duration="0"/>
+   <stop edge="677610755#1" endPos="5" duration="0"/>
+</trip>
+<trip id="veh955" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="455549397#3" to="677610755#1">
+   <stop edge="741186879" endPos="5" duration="0"/>
+   <stop edge="448670163#3" endPos="5" duration="0"/>
+   <stop edge="1089075606#0" endPos="5" duration="0"/>
+   <stop edge="677610755#1" endPos="5" duration="0"/>
+</trip>
+<trip id="veh956" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="455549397#3" to="677610755#1">
+   <stop edge="741186879" endPos="5" duration="0"/>
+   <stop edge="448670163#3" endPos="5" duration="0"/>
+   <stop edge="1089075606#0" endPos="5" duration="0"/>
+   <stop edge="677610755#1" endPos="5" duration="0"/>
+</trip>
+<trip id="veh957" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="455549397#3" to="677610755#1">
+   <stop edge="741186879" endPos="5" duration="0"/>
+   <stop edge="448670163#3" endPos="5" duration="0"/>
+   <stop edge="1089075606#0" endPos="5" duration="0"/>
+   <stop edge="677610755#1" endPos="5" duration="0"/>
+</trip>
+<trip id="veh958" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="675515253#2" to="724458683">
+   <stop edge="677610753#2" endPos="5" duration="0"/>
+   <stop edge="513373546#0" endPos="5" duration="0"/>
+   <stop edge="455679559#0" endPos="5" duration="0"/>
+   <stop edge="724458683" endPos="5" duration="0"/>
+</trip>
+<trip id="veh959" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-678499419#0" to="-675515253#2">
+   <stop edge="741186879" endPos="5" duration="0"/>
+   <stop edge="448670163#3" endPos="5" duration="0"/>
+   <stop edge="-675515253#2" endPos="5" duration="0"/>
+</trip>
+<trip id="veh960" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-678499419#0" to="-675515253#2">
+   <stop edge="741186879" endPos="5" duration="0"/>
+   <stop edge="448670163#3" endPos="5" duration="0"/>
+   <stop edge="-675515253#2" endPos="5" duration="0"/>
+</trip>
+<trip id="veh961" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-678499419#0" to="1089075606#0">
+   <stop edge="741186879" endPos="5" duration="0"/>
+   <stop edge="448670163#3" endPos="5" duration="0"/>
+   <stop edge="1089075606#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh962" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="677610753#2" to="724458683">
+   <stop edge="513373546#0" endPos="5" duration="0"/>
+   <stop edge="455679559#0" endPos="5" duration="0"/>
+   <stop edge="724458683" endPos="5" duration="0"/>
+</trip>
+<trip id="veh963" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="677610753#2" to="724458683">
+   <stop edge="513373546#0" endPos="5" duration="0"/>
+   <stop edge="455679559#0" endPos="5" duration="0"/>
+   <stop edge="724458683" endPos="5" duration="0"/>
+</trip>
+<trip id="veh964" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="677610753#2" to="724458683">
+   <stop edge="513373546#0" endPos="5" duration="0"/>
+   <stop edge="455679559#0" endPos="5" duration="0"/>
+   <stop edge="724458683" endPos="5" duration="0"/>
+</trip>
+<trip id="veh965" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-E2" to="724458683">
+   <stop edge="-E1" endPos="5" duration="0"/>
+   <stop edge="724458683" endPos="5" duration="0"/>
+</trip>
+<trip id="veh966" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-E2" to="724458683">
+   <stop edge="-E1" endPos="5" duration="0"/>
+   <stop edge="724458683" endPos="5" duration="0"/>
+</trip>
+<trip id="veh967" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-E2" to="724458683">
+   <stop edge="-E1" endPos="5" duration="0"/>
+   <stop edge="724458683" endPos="5" duration="0"/>
+</trip>
+<trip id="veh968" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="724437592" to="E3">
+   <stop edge="E2" endPos="5" duration="0"/>
+   <stop edge="E3" endPos="5" duration="0"/>
+</trip>
+<trip id="veh969" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="724437592" to="E3">
+   <stop edge="E2" endPos="5" duration="0"/>
+   <stop edge="E3" endPos="5" duration="0"/>
+</trip>
+<trip id="veh970" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="724437592" to="E3">
+   <stop edge="E2" endPos="5" duration="0"/>
+   <stop edge="E3" endPos="5" duration="0"/>
+</trip>
+<trip id="veh971" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-678499419#0" to="448670163#3">
+   <stop edge="741186879" endPos="5" duration="0"/>
+   <stop edge="448670163#3" endPos="5" duration="0"/>
+</trip>
+<trip id="veh972" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-678499419#0" to="448670163#3">
+   <stop edge="741186879" endPos="5" duration="0"/>
+   <stop edge="448670163#3" endPos="5" duration="0"/>
+</trip>
+<trip id="veh973" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="677610753#2" to="455679559#0">
+   <stop edge="513373546#0" endPos="5" duration="0"/>
+   <stop edge="455679559#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh974" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="677610753#2" to="455679559#0">
+   <stop edge="513373546#0" endPos="5" duration="0"/>
+   <stop edge="455679559#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh975" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="677610753#2" to="455679559#0">
+   <stop edge="513373546#0" endPos="5" duration="0"/>
+   <stop edge="455679559#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh976" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="677610753#2" to="455679559#0">
+   <stop edge="513373546#0" endPos="5" duration="0"/>
+   <stop edge="455679559#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh977" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="39743508#1" to="-675515253#2">
+   <stop edge="721985720" endPos="5" duration="0"/>
+   <stop edge="-675515253#2" endPos="5" duration="0"/>
+</trip>
+<trip id="veh978" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="39743508#1" to="-675515253#2">
+   <stop edge="721985720" endPos="5" duration="0"/>
+   <stop edge="-675515253#2" endPos="5" duration="0"/>
+</trip>
+<trip id="veh979" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-E2" to="-E1">
+   <stop edge="-E1" endPos="5" duration="0"/>
+</trip>
+<trip id="veh980" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-E2" to="-E1">
+   <stop edge="-E1" endPos="5" duration="0"/>
+</trip>
+<trip id="veh981" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-E2" to="-E1">
+   <stop edge="-E1" endPos="5" duration="0"/>
+</trip>
+<trip id="veh982" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-E2" to="-E1">
+   <stop edge="-E1" endPos="5" duration="0"/>
+</trip>
+<trip id="veh983" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-E2" to="-E1">
+   <stop edge="-E1" endPos="5" duration="0"/>
+</trip>
+<trip id="veh984" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-E2" to="-E1">
+   <stop edge="-E1" endPos="5" duration="0"/>
+</trip>
+<trip id="veh985" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-E2" to="-E1">
+   <stop edge="-E1" endPos="5" duration="0"/>
+</trip>
+<trip id="veh986" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="E2" to="E3">
+   <stop edge="E3" endPos="5" duration="0"/>
+</trip>
+<trip id="veh987" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="E2" to="E3">
+   <stop edge="E3" endPos="5" duration="0"/>
+</trip>
+<trip id="veh988" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="E2" to="E3">
+   <stop edge="E3" endPos="5" duration="0"/>
+</trip>
+<trip id="veh989" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="E2" to="E3">
+   <stop edge="E3" endPos="5" duration="0"/>
+</trip>
+<trip id="veh990" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="E2" to="E3">
+   <stop edge="E3" endPos="5" duration="0"/>
+</trip>
+<trip id="veh991" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="455549397#3" to="678499419#0">
+   <stop edge="678499419#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh992" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-678499419#0" to="741186879">
+   <stop edge="741186879" endPos="5" duration="0"/>
+</trip>
+<trip id="veh993" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-678499419#0" to="741186879">
+   <stop edge="741186879" endPos="5" duration="0"/>
+</trip>
+<trip id="veh994" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-678499419#0" to="741186879">
+   <stop edge="741186879" endPos="5" duration="0"/>
+</trip>
+<trip id="veh995" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-678499419#0" to="741186879">
+   <stop edge="741186879" endPos="5" duration="0"/>
+</trip>
+<trip id="veh996" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-678499419#0" to="455679559#0">
+   <stop edge="455679559#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh997" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-678499419#0" to="455679559#0">
+   <stop edge="455679559#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh998" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-678499419#0" to="455679559#0">
+   <stop edge="455679559#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh999" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-678499419#0" to="455679559#0">
+   <stop edge="455679559#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh1000" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-678499419#0" to="455679559#0">
+   <stop edge="455679559#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh1001" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-678499419#0" to="455679559#0">
+   <stop edge="455679559#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh1002" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-678499419#0" to="455679559#0">
+   <stop edge="455679559#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh1003" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-678499419#0" to="455679559#0">
+   <stop edge="455679559#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh1004" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-678499419#0" to="455679559#0">
+   <stop edge="455679559#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh1005" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-678499419#0" to="455679559#0">
+   <stop edge="455679559#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh1006" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-678499419#0" to="455679559#0">
+   <stop edge="455679559#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh1007" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="513373546#0" to="455679559#0">
+   <stop edge="455679559#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh1008" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="513373546#0" to="455679559#0">
+   <stop edge="455679559#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh1009" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="513373546#0" to="455679559#0">
+   <stop edge="455679559#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh1010" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="513373546#0" to="455679559#0">
+   <stop edge="455679559#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh1011" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="513373546#0" to="678499419#0">
+   <stop edge="678499419#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh1012" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="513373546#0" to="678499419#0">
+   <stop edge="678499419#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh1013" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="513373546#0" to="678499419#0">
+   <stop edge="678499419#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh1014" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="513373546#0" to="678499419#0">
+   <stop edge="678499419#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh1015" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-E0" to="448670163#3">
+   <stop edge="448670163#3" endPos="5" duration="0"/>
+</trip>
+<trip id="veh1016" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="-E0" to="448670163#3">
+   <stop edge="448670163#3" endPos="5" duration="0"/>
+</trip>
+<trip id="veh1017" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="677610753#2" to="E0">
+   <stop edge="E0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh1018" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="677610753#2" to="E0">
+   <stop edge="E0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh1019" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="675515253#2" to="1089075606#0">
+   <stop edge="1089075606#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh1020" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="39743508#1" to="677610755#1">
+   <stop edge="677610755#1" endPos="5" duration="0"/>
+</trip>
+<trip id="veh1021" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="39743508#1" to="114684739#1">
+   <stop edge="114684739#1" endPos="5" duration="0"/>
+</trip>
+<trip id="veh1022" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="39743508#1" to="114684739#1">
+   <stop edge="114684739#1" endPos="5" duration="0"/>
+</trip>
+<trip id="veh1023" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="39743508#1" to="114684739#1">
+   <stop edge="114684739#1" endPos="5" duration="0"/>
+</trip>
+<trip id="veh1024" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="39743508#1" to="721985720">
+   <stop edge="721985720" endPos="5" duration="0"/>
+</trip>
+<trip id="veh1025" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="39743508#1" to="721985720">
+   <stop edge="721985720" endPos="5" duration="0"/>
+</trip>
+<trip id="veh1026" type="long_vehicle" depart="0" departLane="best" departSpeed="4.47" from="39743508#1" to="721985720">
+   <stop edge="721985720" endPos="5" duration="0"/>
+</trip>
