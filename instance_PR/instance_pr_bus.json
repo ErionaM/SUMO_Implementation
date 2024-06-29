@@ -1,0 +1,473 @@
+{
+      
+    "cars": [
+        {
+            "path_length": 10,
+            "path": [
+                "TahirZajmi_Lakrishte_BillClinton",
+                "Lakrishte_BillClinton_Santea",
+                "BillClinton_Santea_Katedralja",
+                "Santea_Katedralja_Menza",
+                "Katedralja_Menza_MAShTI",
+                "Menza_MAShTI_Parlamenti",
+                "MAShTI_Parlamenti_XhamiaLlapitTregu",
+                "Parlamenti_XhamiaLlapitTregu_XhamiaLlapit",
+                "XhamiaLlapitTregu_XhamiaLlapit_Tjegullorja",
+                "XhamiaLlapit_Tjegullorja_Zagrebi"
+            ]
+        },
+        {
+            "path_length": 8,
+            "path": [
+                "MaxiMarket_RrugaB_Teknik",
+                "RrugaB_Teknik_Menza",
+                "Teknik_Menza_MAShTI",
+                "Menza_MAShTI_Parlamenti",
+                "MAShTI_Parlamenti_XhamiaLlapitTregu",
+                "Parlamenti_XhamiaLlapitTregu_XhamiaLlapit",
+                "XhamiaLlapitTregu_XhamiaLlapit_VellezeritFazliu",
+                "XhamiaLlapit_VellezeritFazliu"
+            ]
+        },
+        {
+            "path_length": 8,
+            "path": [
+                "VellezeritFazliu_XhamiaLlapit_XhamiaLlapitTregu",
+                "XhamiaLlapit_XhamiaLlapitTregu_Parlamenti",
+                "XhamiaLlapitTregu_Parlamenti_MAShTI",
+                "Parlamenti_MAShTI_Menza",
+                "MAShTI_Menza_Katedralja",
+                "Menza_Katedralja_PTK",
+                "Katedralja_PTK_BulevardiDK",
+                "PTK_BulevardiDK"
+            ]
+        },
+        {
+            "path_length": 6,
+            "path": [
+                "BulevardiDK_PTK_Katedralja",
+                "PTK_Katedralja_Santea",
+                "Katedralja_Santea_BillClinton",
+                "Santea_BillClinton_Lakrishte",
+                "BillClinton_Lakrishte_TahirZajmi",
+                "Lakrishte_TahirZajmi_TerminaliDoganor"
+            ]
+        },
+        {
+            "path_length": 6,
+            "path": [
+                "BulevardiDK_PTK_Katedralja",
+                "PTK_Katedralja_Santea",
+                "Katedralja_Santea_BillClinton",
+                "Santea_BillClinton_Lakrishte",
+                "BillClinton_Lakrishte_TahirZajmi",
+                "Lakrishte_TahirZajmi_TerminaliDoganor"
+            ]
+        },
+        {
+            "path_length": 6,
+            "path": [
+                "TahirZajmi_Lakrishte_BillClinton",
+                "Lakrishte_BillClinton_Santea",
+                "BillClinton_Santea_Katedralja",
+                "Santea_Katedralja_PTK",
+                "Katedralja_PTK_BulevardiDK",
+                "PTK_BulevardiDK"
+            ]
+        },
+        {
+            "path_length": 6,
+            "path": [
+                "TahirZajmi_Lakrishte_BillClinton",
+                "Lakrishte_BillClinton_Santea",
+                "BillClinton_Santea_Katedralja",
+                "Santea_Katedralja_PTK",
+                "Katedralja_PTK_BulevardiDK",
+                "PTK_BulevardiDK"
+            ]
+        },
+        {
+            "path_length": 6,
+            "path": [
+                "TahirZajmi_Lakrishte_BillClinton",
+                "Lakrishte_BillClinton_Santea",
+                "BillClinton_Santea_Katedralja",
+                "Santea_Katedralja_PTK",
+                "Katedralja_PTK_BulevardiDK",
+                "PTK_BulevardiDK"
+            ]
+        },
+        {
+            "path_length": 5,
+            "path": [
+                "Teknik_Menza_MAShTI",
+                "Menza_MAShTI_Parlamenti",
+                "MAShTI_Parlamenti_XhamiaLlapitTregu",
+                "Parlamenti_XhamiaLlapitTregu_MetoBajraktari",
+                "XhamiaLlapitTregu_MetoBajraktari"
+            ]
+        },
+        {
+            "path_length": 5,
+            "path": [
+                "Parlamenti_MAShTI_Menza",
+                "MAShTI_Menza_Teknik",
+                "Menza_Teknik_Qerimi",
+                "Teknik_Qerimi_EnverMaloku",
+                "Qerimi_EnverMaloku"
+            ]
+        },
+        {
+            "path_length": 4,
+            "path": [
+                "RobertDoll_Santea_BillClinton",
+                "Santea_BillClinton_Lakrishte",
+                "BillClinton_Lakrishte_TahirZajmi",
+                "Lakrishte_TahirZajmi_TerminaliDoganor"
+            ]
+        },
+        {
+            "path_length": 4,
+            "path": [
+                "RobertDoll_Santea_BillClinton",
+                "Santea_BillClinton_Lakrishte",
+                "BillClinton_Lakrishte_TahirZajmi",
+                "Lakrishte_TahirZajmi_TerminaliDoganor"
+            ]
+        },
+        {
+            "path_length": 4,
+            "path": [
+                "RobertDoll_Santea_BillClinton",
+                "Santea_BillClinton_Lakrishte",
+                "BillClinton_Lakrishte_TahirZajmi",
+                "Lakrishte_TahirZajmi_TerminaliDoganor"
+            ]
+        },
+        {
+            "path_length": 4,
+            "path": [
+                "Teknik_Menza_MAShTI",
+                "Menza_MAShTI_Parlamenti",
+                "MAShTI_Parlamenti_XhamiaLlapitTregu",
+                "Parlamenti_XhamiaLlapitTregu_XhamiaLlapit"
+            ]
+        },
+        {
+            "path_length": 4,
+            "path": [
+                "Parlamenti_MAShTI_Menza",
+                "MAShTI_Menza_Katedralja",
+                "Menza_Katedralja_PTK",
+                "Katedralja_PTK_BulevardiDK"
+            ]
+        },
+        {
+            "path_length": 4,
+            "path": [
+                "TahirZajmi_Lakrishte_BillClinton",
+                "Lakrishte_BillClinton_Santea",
+                "BillClinton_Santea_RobertDoll",
+                "Santea_RobertDoll"
+            ]
+        },
+        {
+            "path_length": 3,
+            "path": [
+                "Santea_BillClinton_Lakrishte",
+                "BillClinton_Lakrishte_TahirZajmi",
+                "Lakrishte_TahirZajmi_TerminaliDoganor"
+            ]
+        },
+        {
+            "path_length": 3,
+            "path": [
+                "RobertDoll_Santea_Katedralja",
+                "Santea_Katedralja_Menza",
+                "Katedralja_Menza_Qerimi"
+            ]
+        },
+        {
+            "path_length": 3,
+            "path": [
+                "RobertDoll_Santea_Katedralja",
+                "Santea_Katedralja_Menza",
+                "Katedralja_Menza_Qerimi"
+            ]
+        },
+        {
+            "path_length": 3,
+            "path": [
+                "RobertDoll_Santea_Katedralja",
+                "Santea_Katedralja_PTK",
+                "Katedralja_PTK_BulevardiDK"
+            ]
+        },
+        {
+            "path_length": 3,
+            "path": [
+                "Teknik_Menza_MAShTI",
+                "Menza_MAShTI_Parlamenti",
+                "MAShTI_Parlamenti_XhamiaLlapitTregu"
+            ]
+        },
+        {
+            "path_length": 3,
+            "path": [
+                "FehmiLladrovci_Teknik_Qerimi",
+                "Teknik_Qerimi_EnverMaloku",
+                "Qerimi_EnverMaloku"
+            ]
+        },
+        {
+            "path_length": 3,
+            "path": [
+                "FehmiLladrovci_Teknik_Qerimi",
+                "Teknik_Qerimi_EnverMaloku",
+                "Qerimi_EnverMaloku"
+            ]
+        },
+        {
+            "path_length": 3,
+            "path": [
+                "Qerimi_Menza_MAShTI",
+                "Menza_MAShTI_Parlamenti",
+                "MAShTI_Parlamenti_XhamiaLlapitTregu"
+            ]
+        },
+        {
+            "path_length": 3,
+            "path": [
+                "EnverMaloku_Qerimi_Teknik",
+                "Qerimi_Teknik_FehmiLladrovci",
+                "Teknik_FehmiLladrovci"
+            ]
+        },
+        {
+            "path_length": 3,
+            "path": [
+                "Parlamenti_MAShTI_Menza",
+                "MAShTI_Menza_Katedralja",
+                "Menza_Katedralja_Santea"
+            ]
+        },
+        {
+            "path_length": 3,
+            "path": [
+                "Parlamenti_MAShTI_Menza",
+                "MAShTI_Menza_Katedralja",
+                "Menza_Katedralja_Santea"
+            ]
+        },
+        {
+            "path_length": 3,
+            "path": [
+                "BulevardiDK_PTK_Katedralja",
+                "PTK_Katedralja_Menza",
+                "Katedralja_Menza_Qerimi"
+            ]
+        },
+        {
+            "path_length": 3,
+            "path": [
+                "BulevardiDK_PTK_Katedralja",
+                "PTK_Katedralja_Menza",
+                "Katedralja_Menza_Qerimi"
+            ]
+        },
+        {
+            "path_length": 3,
+            "path": [
+                "TahirZajmi_Lakrishte_BillClinton",
+                "Lakrishte_BillClinton_Tuneli",
+                "BillClinton_Tuneli"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "Santea_BillClinton_Lakrishte",
+                "BillClinton_Lakrishte_TahirZajmi"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "Katedralja_Santea_RobertDoll",
+                "Santea_RobertDoll"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "Katedralja_Santea_RobertDoll",
+                "Santea_RobertDoll"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "Menza_Teknik_FehmiLladrovci",
+                "Teknik_FehmiLladrovci"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "Teknik_Menza_Katedralja",
+                "Menza_Katedralja_Santea"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "Teknik_Menza_Katedralja",
+                "Menza_Katedralja_Santea"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "Teknik_Menza_Katedralja",
+                "Menza_Katedralja_Santea"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "Teknik_Menza_Qerimi",
+                "Menza_Qerimi_EnverMaloku"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "Teknik_RrugaB_MaxiMarket",
+                "RrugaB_MaxiMarket"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "Teknik_RrugaB_MaxiMarket",
+                "RrugaB_MaxiMarket"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "Qerimi_Teknik_FehmiLladrovci",
+                "Teknik_FehmiLladrovci"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "MaxiMarket_RrugaB_Teknik",
+                "RrugaB_Teknik_Menza"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "Parlamenti_MAShTI_Menza",
+                "MAShTI_Menza_Teknik"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "XhamiaLlapitTregu_Parlamenti_IbrahimLutfiu",
+                "Parlamenti_IbrahimLutfiu"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "XhamiaLlapitTregu_Parlamenti_IbrahimLutfiu",
+                "Parlamenti_IbrahimLutfiu"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "XhamiaLlapitTregu_XhamiaLlapit_VellezeritFazliu",
+                "XhamiaLlapit_VellezeritFazliu"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "XhamiaLlapitTregu_XhamiaLlapit_VellezeritFazliu",
+                "XhamiaLlapit_VellezeritFazliu"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "XhamiaLlapitTregu_XhamiaLlapit_Makovc",
+                "XhamiaLlapit_Makovc"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "IbrahimLutfiu_Parlamenti_XhamiaLlapitTregu",
+                "Parlamenti_XhamiaLlapitTregu_XhamiaLlapit"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "MetoBajraktari_XhamiaLlapitTregu_LidhjaPrizrenit",
+                "XhamiaLlapitTregu_LidhjaPrizrenit"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "VellezeritFazliu_XhamiaLlapit_XhamiaLlapitTregu",
+                "XhamiaLlapit_XhamiaLlapitTregu_Parlamenti"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "Makovc_XhamiaLlapit_XhamiaLlapitTregu",
+                "XhamiaLlapit_XhamiaLlapitTregu_Parlamenti"
+            ]
+        },
+        
+        
+        {
+            "path_length": 2,
+            "path": [
+                "BulevardiDK_PTK_Katedralja",
+                "PTK_Katedralja_Santea"
+            ]
+        },
+       
+       
+        {
+            "path_length": 2,
+            "path": [
+                "TahirZajmi_Lakrishte_BillClinton",
+                "Lakrishte_BillClinton_Santea"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "TahirZajmi_Lakrishte_BillClinton",
+                "Lakrishte_BillClinton_Santea"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "TahirZajmi_Lakrishte_BillClinton",
+                "Lakrishte_BillClinton_Santea"
+            ]
+        }
+    ]
+}

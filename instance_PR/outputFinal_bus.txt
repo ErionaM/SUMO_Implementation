@@ -1,0 +1,240 @@
+<trip id="veh830" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="-E3" to="-665275599">
+   <stop edge="-E1" endPos="5" duration="0"/>
+   <stop edge="732059549#1" endPos="5" duration="0"/>
+   <stop edge="322292822#2" endPos="5" duration="0"/>
+   <stop edge="106664692#0" endPos="5" duration="0"/>
+   <stop edge="144928692#2" endPos="5" duration="0"/>
+   <stop edge="669017290#0" endPos="5" duration="0"/>
+   <stop edge="671575271#0" endPos="5" duration="0"/>
+   <stop edge="670083488#0" endPos="5" duration="0"/>
+   <stop edge="-665275599" endPos="5" duration="0"/>
+</trip>
+<trip id="veh831" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="233495995#0" to="470279439#0">
+   <stop edge="670029695" endPos="5" duration="0"/>
+   <stop edge="670227237#0" endPos="5" duration="0"/>
+   <stop edge="144928692#2" endPos="5" duration="0"/>
+   <stop edge="669017290#0" endPos="5" duration="0"/>
+   <stop edge="671575271#0" endPos="5" duration="0"/>
+   <stop edge="670083488#0" endPos="5" duration="0"/>
+   <stop edge="470279439#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh832" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="-470279439#1" to="E0">
+   <stop edge="-135256564#1" endPos="5" duration="0"/>
+   <stop edge="-670083490#1" endPos="5" duration="0"/>
+   <stop edge="669157819#0" endPos="5" duration="0"/>
+   <stop edge="670084143#0" endPos="5" duration="0"/>
+   <stop edge="420729272#0" endPos="5" duration="0"/>
+   <stop edge="4854654#1" endPos="5" duration="0"/>
+   <stop edge="E0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh833" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="106654240#3" to="E3">
+   <stop edge="106654240#5" endPos="5" duration="0"/>
+   <stop edge="670754367#0" endPos="5" duration="0"/>
+   <stop edge="732183921#0" endPos="5" duration="0"/>
+   <stop edge="E1" endPos="5" duration="0"/>
+   <stop edge="E3" endPos="5" duration="0"/>
+</trip>
+<trip id="veh834" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="106654240#3" to="E3">
+   <stop edge="106654240#5" endPos="5" duration="0"/>
+   <stop edge="670754367#0" endPos="5" duration="0"/>
+   <stop edge="732183921#0" endPos="5" duration="0"/>
+   <stop edge="E1" endPos="5" duration="0"/>
+   <stop edge="E3" endPos="5" duration="0"/>
+</trip>
+<trip id="veh835" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="-E3" to="E0">
+   <stop edge="-E1" endPos="5" duration="0"/>
+   <stop edge="732059549#1" endPos="5" duration="0"/>
+   <stop edge="322292822#2" endPos="5" duration="0"/>
+   <stop edge="4854654#1" endPos="5" duration="0"/>
+   <stop edge="E0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh836" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="-E3" to="E0">
+   <stop edge="-E1" endPos="5" duration="0"/>
+   <stop edge="732059549#1" endPos="5" duration="0"/>
+   <stop edge="322292822#2" endPos="5" duration="0"/>
+   <stop edge="4854654#1" endPos="5" duration="0"/>
+   <stop edge="E0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh837" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="-E3" to="E0">
+   <stop edge="-E1" endPos="5" duration="0"/>
+   <stop edge="732059549#1" endPos="5" duration="0"/>
+   <stop edge="322292822#2" endPos="5" duration="0"/>
+   <stop edge="4854654#1" endPos="5" duration="0"/>
+   <stop edge="E0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh838" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="670227237#0" to="-665263711#3">
+   <stop edge="144928692#2" endPos="5" duration="0"/>
+   <stop edge="669017290#0" endPos="5" duration="0"/>
+   <stop edge="671575271#0" endPos="5" duration="0"/>
+   <stop edge="-665263711#3" endPos="5" duration="0"/>
+</trip>
+<trip id="veh839" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="669157819#0" to="294952098">
+   <stop edge="670084143#0" endPos="5" duration="0"/>
+   <stop edge="732149239#0" endPos="5" duration="0"/>
+   <stop edge="669726359" endPos="5" duration="0"/>
+   <stop edge="294952098" endPos="5" duration="0"/>
+</trip>
+<trip id="veh840" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="47120917#5" to="E3">
+   <stop edge="732183921#0" endPos="5" duration="0"/>
+   <stop edge="E1" endPos="5" duration="0"/>
+   <stop edge="E3" endPos="5" duration="0"/>
+</trip>
+<trip id="veh841" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="47120917#5" to="E3">
+   <stop edge="732183921#0" endPos="5" duration="0"/>
+   <stop edge="E1" endPos="5" duration="0"/>
+   <stop edge="E3" endPos="5" duration="0"/>
+</trip>
+<trip id="veh842" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="47120917#5" to="E3">
+   <stop edge="732183921#0" endPos="5" duration="0"/>
+   <stop edge="E1" endPos="5" duration="0"/>
+   <stop edge="E3" endPos="5" duration="0"/>
+</trip>
+<trip id="veh843" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="670227237#0" to="671575271#0">
+   <stop edge="144928692#2" endPos="5" duration="0"/>
+   <stop edge="669017290#0" endPos="5" duration="0"/>
+   <stop edge="671575271#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh844" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="669157819#0" to="4854654#1">
+   <stop edge="670084143#0" endPos="5" duration="0"/>
+   <stop edge="420729272#0" endPos="5" duration="0"/>
+   <stop edge="4854654#1" endPos="5" duration="0"/>
+</trip>
+<trip id="veh845" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="-E3" to="-47120917#5">
+   <stop edge="-E1" endPos="5" duration="0"/>
+   <stop edge="732059549#1" endPos="5" duration="0"/>
+   <stop edge="-47120917#5" endPos="5" duration="0"/>
+</trip>
+<trip id="veh846" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="732183921#0" to="E3">
+   <stop edge="E1" endPos="5" duration="0"/>
+   <stop edge="E3" endPos="5" duration="0"/>
+</trip>
+<trip id="veh847" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="47120917#5" to="106664692#0">
+   <stop edge="322292822#2" endPos="5" duration="0"/>
+   <stop edge="106664692#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh848" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="47120917#5" to="106664692#0">
+   <stop edge="322292822#2" endPos="5" duration="0"/>
+   <stop edge="106664692#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh849" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="47120917#5" to="4854654#1">
+   <stop edge="322292822#2" endPos="5" duration="0"/>
+   <stop edge="4854654#1" endPos="5" duration="0"/>
+</trip>
+<trip id="veh850" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="670227237#0" to="669017290#0">
+   <stop edge="144928692#2" endPos="5" duration="0"/>
+   <stop edge="669017290#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh851" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="668979846" to="294952098">
+   <stop edge="669726359" endPos="5" duration="0"/>
+   <stop edge="294952098" endPos="5" duration="0"/>
+</trip>
+<trip id="veh852" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="668979846" to="294952098">
+   <stop edge="669726359" endPos="5" duration="0"/>
+   <stop edge="294952098" endPos="5" duration="0"/>
+</trip>
+<trip id="veh853" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="672144715" to="669017290#0">
+   <stop edge="144928692#2" endPos="5" duration="0"/>
+   <stop edge="669017290#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh854" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="640943482#0" to="106664694#0">
+   <stop edge="669014815" endPos="5" duration="0"/>
+   <stop edge="106664694#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh855" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="669157819#0" to="420729272#0">
+   <stop edge="670084143#0" endPos="5" duration="0"/>
+   <stop edge="420729272#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh856" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="669157819#0" to="420729272#0">
+   <stop edge="670084143#0" endPos="5" duration="0"/>
+   <stop edge="420729272#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh857" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="106654240#3" to="106664692#0">
+   <stop edge="106654240#5" endPos="5" duration="0"/>
+   <stop edge="106664692#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh858" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="106654240#3" to="106664692#0">
+   <stop edge="106654240#5" endPos="5" duration="0"/>
+   <stop edge="106664692#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh859" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="-E3" to="670507193#2">
+   <stop edge="-E1" endPos="5" duration="0"/>
+   <stop edge="670507193#2" endPos="5" duration="0"/>
+</trip>
+<trip id="veh860" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="732183921#0" to="E1">
+   <stop edge="E1" endPos="5" duration="0"/>
+</trip>
+<trip id="veh861" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="670754367#0" to="-47120917#5">
+   <stop edge="-47120917#5" endPos="5" duration="0"/>
+</trip>
+<trip id="veh862" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="670754367#0" to="-47120917#5">
+   <stop edge="-47120917#5" endPos="5" duration="0"/>
+</trip>
+<trip id="veh863" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="732149239#0" to="106664694#0">
+   <stop edge="106664694#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh864" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="670227237#0" to="420729272#0">
+   <stop edge="420729272#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh865" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="670227237#0" to="420729272#0">
+   <stop edge="420729272#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh866" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="670227237#0" to="420729272#0">
+   <stop edge="420729272#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh867" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="670227237#0" to="106664684#0">
+   <stop edge="106664684#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh868" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="732149243#2" to="670238024#0">
+   <stop edge="670238024#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh869" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="732149243#2" to="670238024#0">
+   <stop edge="670238024#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh870" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="669014815" to="106664694#0">
+   <stop edge="106664694#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh871" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="233495995#0" to="670029695">
+   <stop edge="670029695" endPos="5" duration="0"/>
+</trip>
+<trip id="veh872" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="669157819#0" to="670084143#0">
+   <stop edge="670084143#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh873" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="-670083490#1" to="-670811719#1">
+   <stop edge="-670811719#1" endPos="5" duration="0"/>
+</trip>
+<trip id="veh874" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="-670083490#1" to="-670811719#1">
+   <stop edge="-670811719#1" endPos="5" duration="0"/>
+</trip>
+<trip id="veh875" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="670083488#0" to="470279439#0">
+   <stop edge="470279439#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh876" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="670083488#0" to="470279439#0">
+   <stop edge="470279439#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh877" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="670083488#0" to="670075061#0">
+   <stop edge="670075061#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh878" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="670811719#0" to="671575271#0">
+   <stop edge="671575271#0" endPos="5" duration="0"/>
+</trip>
+<trip id="veh879" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="665263711#3" to="670083489">
+   <stop edge="670083489" endPos="5" duration="0"/>
+</trip>
+<trip id="veh880" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="-470279439#1" to="-135256564#1">
+   <stop edge="-135256564#1" endPos="5" duration="0"/>
+</trip>
+<trip id="veh881" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="-670075061#1" to="-135256564#1">
+   <stop edge="-135256564#1" endPos="5" duration="0"/>
+</trip>
+<trip id="veh882" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="106654240#3" to="106654240#5">
+   <stop edge="106654240#5" endPos="5" duration="0"/>
+</trip>
+<trip id="veh883" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="-E3" to="-E1">
+   <stop edge="-E1" endPos="5" duration="0"/>
+</trip>
+<trip id="veh884" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="-E3" to="-E1">
+   <stop edge="-E1" endPos="5" duration="0"/>
+</trip>
+<trip id="veh885" type="veh_bus" depart="0" departLane="best" departSpeed="4.47" from="-E3" to="-E1">
+   <stop edge="-E1" endPos="5" duration="0"/>
+</trip>

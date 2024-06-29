@@ -1,0 +1,232 @@
+{
+    "cars": [
+        {
+            "path_length": 5,
+            "path": [
+                "FehmiLladrovci_Teknik_Menza",
+                "Teknik_Menza_MAShTI",
+                "Menza_MAShTI_Parlamenti",
+                "MAShTI_Parlamenti_IbrahimLutfiu",
+                "Parlamenti_IbrahimLutfiu"
+            ]
+        },
+        {
+            "path_length": 4,
+            "path": [
+                "FehmiLladrovci_Teknik_Menza",
+                "Teknik_Menza_MAShTI",
+                "Menza_MAShTI_Parlamenti",
+                "MAShTI_Parlamenti_XhamiaLlapitTregu"
+            ]
+        },
+        {
+            "path_length": 3,
+            "path": [
+                "Santea_BillClinton_Lakrishte",
+                "BillClinton_Lakrishte_TahirZajmi",
+                "Lakrishte_TahirZajmi_TerminaliDoganor"
+            ]
+        },
+        {
+            "path_length": 3,
+            "path": [
+                "RobertDoll_Santea_Katedralja",
+                "Santea_Katedralja_PTK",
+                "Katedralja_PTK_BulevardiDK"
+            ]
+        },
+        {
+            "path_length": 3,
+            "path": [
+                "FehmiLladrovci_Teknik_Menza",
+                "Teknik_Menza_MAShTI",
+                "Menza_MAShTI_Parlamenti"
+            ]
+        },
+        {
+            "path_length": 3,
+            "path": [
+                "Parlamenti_MAShTI_Menza",
+                "MAShTI_Menza_Teknik",
+                "Menza_Teknik_RrugaB"
+            ]
+        },
+        {
+            "path_length": 3,
+            "path": [
+                "LidhjaLezhes_XhamiaLlapit_Tjegullorja",
+                "XhamiaLlapit_Tjegullorja_Zagrebi",
+                "Tjegullorja_Zagrebi"
+            ]
+        },
+        {
+            "path_length": 3,
+            "path": [
+                "TahirZajmi_Lakrishte_BillClinton",
+                "Lakrishte_BillClinton_ShtjefenGjeqovi",
+                "BillClinton_ShtjefenGjeqovi"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "BillClinton_Lakrishte_TahirZajmi",
+                "Lakrishte_TahirZajmi_TerminaliDoganor"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "BillClinton_Lakrishte_TahirZajmi",
+                "Lakrishte_TahirZajmi_TerminaliDoganor"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "BillClinton_Lakrishte_TahirZajmi",
+                "Lakrishte_TahirZajmi_TerminaliDoganor"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "BillClinton_Lakrishte_TahirZajmi",
+                "Lakrishte_TahirZajmi_TerminaliDoganor"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "FehmiLladrovci_Teknik_Qerimi",
+                "Teknik_Qerimi_Menza"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "FehmiLladrovci_Teknik_RrugaB",
+                "Teknik_RrugaB_MaxiMarket"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "Qerimi_Menza_MAShTI",
+                "Menza_MAShTI_Parlamenti"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "BibajSport_RrugaB_MaxiMarket",
+                "RrugaB_MaxiMarket"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "BibajSport_RrugaB_MaxiMarket",
+                "RrugaB_MaxiMarket"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "BibajSport_RrugaB_MaxiMarket",
+                "RrugaB_MaxiMarket"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "BibajSport_RrugaB_MaxiMarket",
+                "RrugaB_MaxiMarket"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "BibajSport_RrugaB_MaxiMarket",
+                "RrugaB_MaxiMarket"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "MaxiMarket_RrugaB_BibajSport",
+                "RrugaB_BibajSport"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "MaxiMarket_RrugaB_BibajSport",
+                "RrugaB_BibajSport"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "MaxiMarket_RrugaB_BibajSport",
+                "RrugaB_BibajSport"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "MaxiMarket_RrugaB_BibajSport",
+                "RrugaB_BibajSport"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "Parlamenti_XhamiaLlapitTregu_XhamiaLlapit",
+                "XhamiaLlapitTregu_XhamiaLlapit_VellezeritFazliu"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "Parlamenti_XhamiaLlapitTregu_XhamiaLlapit",
+                "XhamiaLlapitTregu_XhamiaLlapit_VellezeritFazliu"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "XhamiaLlapit_XhamiaLlapitTregu_Parlamenti",
+                "XhamiaLlapitTregu_Parlamenti_MAShTI"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "XhamiaLlapit_Tjegullorja_Zagrebi",
+                "Tjegullorja_Zagrebi"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "Tjegullorja_XhamiaLlapit_VellezeritFazliu",
+                "XhamiaLlapit_VellezeritFazliu"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "TahirZajmi_Lakrishte_BillClinton",
+                "Lakrishte_BillClinton_Santea"
+            ]
+        },
+        {
+            "path_length": 2,
+            "path": [
+                "TahirZajmi_Lakrishte_BillClinton",
+                "Lakrishte_BillClinton_Santea"
+            ]
+        }
+    ]
+}
